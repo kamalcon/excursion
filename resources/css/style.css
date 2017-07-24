@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-family: Verdana;
+}
+
+h1, h2, a, p, h3, img, video {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+a {
+	font-size: 16px;
+	color: aquamarine;
+}
+
+video, img {
+	display: block;
+	margin: auto;
+}
+
+h2 {
+	font-size: 42px;
+	font-weight: 300;
+	
+}
+
+p {
+	font-size: 21px;
+	color: gray;
+}
+
+h3 {
+	text-align: right;
+	color: gray;
+	font-weight: normal;
+}
